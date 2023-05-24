@@ -30,3 +30,4 @@ monthly_charges
 total_charges
 client_days_duration
 internet_service
+extra_service_count
